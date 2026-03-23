@@ -4,7 +4,7 @@
 SovrIT Core is the sovereign execution environment that all SovrIT modules run on. It is not a single service — it is the totality of the networking, resilience, storage, hardening, and operational foundations that make SovrIT a reliable, long‑lived personal IT platform.
 
 Where the [**SovrIT Platform**](https://github.com/don-ferris/SovrIT)
- defines the philosophy and architecture, SovrIT Core implements it.
+ defines the philosophy and [architecture](https://github.com/don-ferris/SovrIT/blob/main/Architecture.md), SovrIT Core implements it.
 
 ---
 
