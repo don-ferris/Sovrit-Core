@@ -121,7 +121,7 @@ Integrations are optional extensions.
 
 ---
 
-## 📦 Repository Structure (recommended)
+## 📦 Repository Structure
 
     sovrit-core/
     │
