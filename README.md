@@ -113,9 +113,9 @@ Integrations are optional extensions.
 ## 📐 Design Principles
 
 - sovereignty first  
-- infrastructure‑grade reliability  
+- enterprise‑grade reliability  
 - defense in depth  
-- idempotent provisioning  
+- idempotent provisioning (repeatable, predictable, always produces the same result)
 - human‑centered operability  
 - longevity and maintainability  
 
@@ -157,7 +157,7 @@ Integrations are optional extensions.
     │   ├── troubleshooting/
     │   └── workflows/
     │
-    └── docs/                      # Human-facing documentation
+    └── handbook/                      # Human-facing documentation
         ├── binder/
         ├── runbooks/
         └── diagrams/
